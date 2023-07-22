@@ -1,0 +1,26 @@
+{
+    "Lexemes": {
+        "Operators": {
+            "TypeContinuation": "...",
+            "Conjunction": ",",
+            "StringDelimiter": "'"
+        },
+        "Keywords": {
+            "IntegralType": "integer",
+            "LogicalType": "boolean",
+            "StringType": "string",
+            "ExternalObjectSpecifier": "external",
+            "TypeSpecifier": "type",
+            "StateSpecifier": "is",
+            "WraparoundSpecifier": "wraparound",
+            "ProgramSpecifier": "program",
+            "RequiresSpecifier": "requires",
+            "WritesSpecifier": "writes"
+            "VariableTypeSpecifier": "variable",
+            "DirectiveSpecifier": "to",
+            "LoopSpecifier": "loop",
+            "BreakSpecifier" : "break",
+            "IncrementSpecifier": "increment"
+        }
+    }
+}
